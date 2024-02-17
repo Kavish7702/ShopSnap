@@ -1,4 +1,4 @@
-                                                                        ##ShopSnap
+## ShopSnap
 
 ShopSnap is an e-commerce platform with essential commerce features.Built with HTML,CSS,JavaScript and React.js, modular and fully customizable.
 
